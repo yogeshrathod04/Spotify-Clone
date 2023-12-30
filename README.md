@@ -1,3 +1,2 @@
 # Spotify-Clone
-just i things to develop a simple project. 
-
+just i things to develop a simple project.
